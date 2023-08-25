@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-Gladiator manager does not corrently collect any user data.
+Renegade games does not corrently collect any user data.
 
 The app does use third party services that may collect information used to identify you.
 
@@ -27,7 +27,7 @@ We want to inform you that whenever you use our Service, in a case of an error i
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This Service does not use these â€œcookiesâ€ explicitly. However, the app may use third party code and libraries that use â€œcookiesâ€ to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+This Service does not use these cookies explicitly. However, the app may use third party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
 **Service Providers**
 
@@ -48,7 +48,7 @@ We value your trust in providing us your Personal Information, thus we are striv
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-**Childrenâ€™s Privacy**
+**Children's Privacy**
 
 These Services do not address anyone under the age of 13\. We do not knowingly collect personally identifiable information from children under 13\. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
